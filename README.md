@@ -1,5 +1,7 @@
 # Kubernetes Python Client
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/868d4a25-73f8-4291-8d72-fa674ad66eb4.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/python)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/49f23226-4bc6-4cea-a732-803b4c465c9c.svg)](https://app.soluble.cloud/repos/details/github.com/marcosgm/python)  
+
 [![Build Status](https://travis-ci.org/kubernetes-client/python.svg?branch=master)](https://travis-ci.org/kubernetes-client/python)
 [![PyPI version](https://badge.fury.io/py/kubernetes.svg)](https://badge.fury.io/py/kubernetes)
 [![codecov](https://codecov.io/gh/kubernetes-client/python/branch/master/graph/badge.svg)](https://codecov.io/gh/kubernetes-client/python "Non-generated packages only")
